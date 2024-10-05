@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Ariane!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=💜+Olá,+meu+nome+é+Ariane!;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
@@ -16,7 +16,6 @@ Sejam Bem-vindos ao meu GitHub 😻
 
 ---
 
-
 ## 💌 Entre em contato comigo:
 
 <p align="left">
@@ -24,7 +23,6 @@ Sejam Bem-vindos ao meu GitHub 😻
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 ---
 
@@ -50,8 +48,7 @@ Sejam Bem-vindos ao meu GitHub 😻
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
-
 <!---
 ArianeCavalcanti/ArianeCavalcanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at sua alterações.
 --->
