@@ -2,6 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/9vbe4gvT089VaPXgF6/giphy.gif" alt="GIF animado via Giphy" width="300" />
+</p>
+
+
 <p align="left"> 
 Sejam Bem-vindos ao meu GitHub 😻
 </p>
@@ -13,9 +19,6 @@ Sejam Bem-vindos ao meu GitHub 😻
   - 🎶 Hobbies: Música, doramas e viagens<br>
   - 💼 Minhas Qualidades: Gosto de ajudar e me empenho para solucionar problemas (minha vocação)<br>
   
-<p align="center">
-  <img src="https://media.giphy.com/media/9vbe4gvT089VaPXgF6/giphy.gif" alt="GIF animado via Giphy" width="300" />
-</p>
 
 
 
