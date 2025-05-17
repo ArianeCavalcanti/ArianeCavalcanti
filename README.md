@@ -13,7 +13,8 @@ Sejam Bem-vindos ao meu GitHub 😻
 </p>
 
 <p align="left">
-  - 📚 Atualmente estudo na Instituição Senac<br>
+  - 📚 Atualmente estudo na DIO<br>
+  - 👩🏽‍🎓 Técnica em Análise e Desenvolvimento de Sistemas(SENAC) <br>
   - 🎯 Objetivo: Viver de Java<br>
   - 🔍 Procuro: Uma oportunidade na área de desenvolvimento Java<br>
   - 🎶 Hobbies: Música, doramas e viagens<br>
